@@ -1,13 +1,31 @@
 {
-  "display": "standalone",
-  "scope": "/",
-  "start_url": "/",
   "name": "Drive",
   "icons": [
     {
-      "src": "https://cdn.jsdelivr.net/gh/Guru-25/alist/static/logo.png",
+      "src": "https://cdn.jsdelivr.net/gh/Guru-25/alist/static/favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/Guru-25/alist/static/logo512.png",
+      "type": "image/png",
       "sizes": "512x512",
-      "type": "image/png"
+      "purpose": "maskable"
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/Guru-25/alist/static/logo192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/Guru-25/alist/static/logo512.png",
+      "type": "image/png",
+      "sizes": "512x512"
     }
-  ]
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
 }
