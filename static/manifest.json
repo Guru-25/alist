@@ -1,0 +1,13 @@
+{
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "/",
+  "name": "Drive",
+  "icons": [
+    {
+      "src": "https://www.svgrepo.com/show/452065/ms-onedrive.svg",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
