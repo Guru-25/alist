@@ -5,7 +5,7 @@
   "name": "Drive",
   "icons": [
     {
-      "src": "https://raw.githubusercontent.com/Guru-25/alist/refs/heads/main/static/logo.png",
+      "src": "https://cdn.jsdelivr.net/gh/Guru-25/alist/static/logo.png",
       "sizes": "512x512",
       "type": "image/png"
     }
